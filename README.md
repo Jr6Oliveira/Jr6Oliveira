@@ -1,3 +1,3 @@
-* Frontend Developer
+* Junior FullStack Developer 
 * Cursando Desenvolvimento Web
-* Gosto bastante de connversar, se quiser chamar fica a vontade kk.
+* Cursando Análise e Desenvolvimento de Sistema
